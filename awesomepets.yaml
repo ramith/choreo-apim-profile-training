@@ -10,7 +10,7 @@ info:
     Some useful links:
     - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
     - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
-  version: 2.0.0
+  version: 1.0.0
 externalDocs:
   description: Find out more about Swagger
   url: http://swagger.io
